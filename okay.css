@@ -1,0 +1,187 @@
+#field {
+    text-align: center;
+    width: 30%;
+    border: solid #0a2630 5px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 80px;
+    
+    
+}
+
+body {
+    background-image: url(gymcanteendorm.jpg);
+    background-repeat: no-repeat;
+    background-size: 1100px 725px;
+    font-family: glacial indifference;
+    
+}
+
+#whitebox {
+    position: absolute;
+    left: 0;
+    bottom:0;
+    height: 730px;
+    width: 1100px; 
+    background: linear-gradient(to left, rgb(1, 30, 43), rgb(59, 108, 130), rgb(144, 198, 223), rgb(212, 219, 223));
+    opacity: 0.6;
+    z-index: -1;
+  }
+
+  #box {
+
+    position: absolute;
+    left: 375px;
+    bottom:60px;
+    height: 480px;
+    width: 370px; 
+    background: linear-gradient(to right, rgb(247, 248, 255), rgb(112, 161, 184));
+    opacity: 0.7;
+    z-index: -1;
+    border: 1px hidden white;
+    border-radius: 20px;
+
+  }
+
+  #box2 {
+
+    position: absolute;
+    left: 470px;
+    bottom:525px;
+    height: 25px;
+    width: 180px; 
+    background: white;
+    opacity: 1;
+    z-index: -1;
+    border: 1px hidden white;
+    border-radius: 10px;
+
+  }
+
+  #fName {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+
+  #uName {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  #pWord {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  #ConfirmPassWord {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  #mail {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  #mail {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  #home {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  #tArea {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+
+  #submit {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  #reset {
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 13px;
+    
+  }
+
+  .pisaycaraga {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    color: white;
+    transition: transform 0.3s, text-shadow 0.3s ease;
+  }
+
+  .pisaycaraga:hover {
+  text-shadow: 0 0 10px #0a2630;
+  transform:scale(1.1);
+  }
+
+  .facebook {
+    position: absolute;
+    top:0px;
+    right:195px;
+    color:white;
+    text-align: right;
+   
+    transition: transform 0.3s ease;
+ }
+ 
+  .facebook:hover {
+   transform:scale(1.1);
+ }
+  
+  .email {
+    position: absolute;
+    top:0px;
+    right:120px;
+    color:white;
+    text-align: right;
+    
+    transition: transform 0.3s;
+ }
+ 
+ .email:hover {
+   transform:scale(1.1);
+ }
+
+ .about {
+  position: absolute;
+  top:0px;
+  right:300px;
+  color:white;
+  text-align: right;
+  transition: transform 0.3s;
+}
+.about:hover {
+transform:scale(1.1);
+}
+
+
